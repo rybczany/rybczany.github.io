@@ -410,6 +410,7 @@ footer:before {
 }
 footer input {
 	background-color: #f6f6f6;
+	color: #767779;
 	border: solid #767779;
 	border-width: 1px;
 	margin: 0;
